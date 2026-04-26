@@ -18,7 +18,7 @@
     "framer-motion": "^11.0.0",
     "lightweight-charts": "^4.2.3",
     "lucide-react": "^0.460.0",
-    "next": "^14.2.0",
+    "next": "^15.5.15",
     "react": "^18.2.0",
     "react-datepicker": "^9.1.0",
     "react-dom": "^18.2.0",
@@ -26,6 +26,9 @@
     "recharts": "^2.15.0",
     "rehype-sanitize": "^6.0.0",
     "remark-gfm": "^4.0.1"
+  },
+  "overrides": {
+    "postcss": "^8.5.10"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^6.6.3",
@@ -39,9 +42,9 @@
     "ajv-formats": "^3.0.1",
     "autoprefixer": "^10.4.0",
     "eslint": "^8.0.0",
-    "eslint-config-next": "^14.2.0",
+    "eslint-config-next": "^15.5.15",
     "jsdom": "^25.0.1",
-    "postcss": "^8.4.0",
+    "postcss": "^8.5.10",
     "tailwindcss": "^3.4.0",
     "typescript": "^5.0.0",
     "vitest": "^2.1.9"
